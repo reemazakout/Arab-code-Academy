@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "email": "marahsaadeh@gmail.com",
+      "password": "$2b$10$rSi6IYQGYOe4KCX3IQ4yiu5fS8mE4rRfo7RDx5nhio6Eilr7jbzy6",
+      "firstName": "marah",
+      "lastName": "saadeh",
+      "username": "marah saadeh",
+      "country": "عُمان"
+    },
+    {
+      "email": "ahmad@gmail.com",
+      "password": "$2b$10$9zOHlurVWjyJtfyNFxn3JOuCaV305hvjHerA/BiEuqujh5S.AgehK",
+      "firstName": "Ahmad",
+      "lastName": "nazzal",
+      "username": "ahmad",
+      "country": "فلسطين",
+      "favorites": [2, 4]
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2b$10$BQjX.Ck/Qybb2WfQDsx/R.N2XcHdOwZGuDi9Znn3E0zTYa/uXfFF2",
+      "firstName": "Test",
+      "lastName": "Test",
+      "username": "Test",
+      "country": "ليبيا"
+    },
+    {
+      "email": "ahmad1@gmail.com",
+      "password": "$2b$10$5LJfic44pVD3xKMZmjAQ2.7vqHNQwN48NNfNTwafUUwNu2hnqC1qq",
+      "firstName": "ahmad",
+      "lastName": "nazzal",
+      "username": "aa4455",
+      "country": "العراق"
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2b$10$jvEkn7STZWA/mpzd13bSauIMLJ6UbxCK2vSZPZyLlm4WOXUsr5N7e",
+      "firstName": "a",
+      "lastName": "aa",
+      "username": "aaa",
+      "country": "البحرين"
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2b$10$DcK3.QgkBI3hFZXF1l5Zmulczr1UZ/Ae2B5pCJ/KHuujTw0dxkxTW",
+      "firstName": "ahmad",
+      "lastName": "nazzal",
+      "username": "ahmad nazzal",
+      "country": "ليبيا"
+    },
+    {
+      "username": "احمد محمد صادق نزال",
+      "email": "s12027687@stu.najah.edu",
+      "image": "https://lh3.googleusercontent.com/a/ACg8ocKnacMGLyyyiA1MXn0JwPNi6iUgbrrtBOAR80AG19onkTZbhQ=s96-c",
+      "provider": "google",
+      "favorites": [
+        4
+      ]
+    }
+    
+
+    
+  ]
+}

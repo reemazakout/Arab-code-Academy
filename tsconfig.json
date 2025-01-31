@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "target": "ES2017"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "sections/home/CoursesSection/loading.tsx",
+    "sections/home/CoursesSection/loading.tsx",
+    "app/page.tsx",
+    "sections/home/CoursesSection/CoursesSection.tsx",
+    "app/(auth)/register/registerForm.jsx",
+    "app/(auth)/signin/loginForm.jsx"
+, "public/manifest.js", "public/sw.js", "public/workbox-e43f5367.js"  ],
+  "exclude": ["node_modules"]
+}
