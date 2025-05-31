@@ -1,9 +1,6 @@
 # Arab Code Academy
 
-This project is a part of the React.js and Next.js Training Program at Gaza Sky Geeks.
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2091d904-368b-4d34-a048-1bb4cea1cf1d" alt="Centered Image">
-</div>
+The Arab Programming Academy offers specialized courses to teach programming in Arabic, enabling students to gain technical skills and learn programming languages through high-quality educational content tailored for Arabic speakers.
 
 ## Team Members:
 
